@@ -11,9 +11,9 @@ gets the data from the database and returns in JSON response.
 
 http://127.0.0.1:8000/api/user/register/ <br>
 http://127.0.0.1:8000/api/user/login/ <br>
-http://127.0.0.1:8000/api/user/profile/ <br>
-http://127.0.0.1:8000/api/user/profile/ <br>
-http://127.0.0.1:8000/api/user/profile/ <br>
+http://127.0.0.1:8000/api/user/profile/ -- GET -- for profile fetch<br>
+http://127.0.0.1:8000/api/user/profile/ -- PUT -- for update <br>
+http://127.0.0.1:8000/api/user/profile/ -- DELETE -- for delete <br>
 
 Note : Please use virtual env and install the requiemrents.txt file before running the project
 Note : Please install the mentions packages using terminal = {
